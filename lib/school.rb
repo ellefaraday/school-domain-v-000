@@ -8,3 +8,6 @@ class School
   attr_reader :roster
 
   def roster= (student)
+  end
+
+end
